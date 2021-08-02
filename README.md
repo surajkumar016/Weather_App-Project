@@ -8,3 +8,11 @@ To make it more robust HTML is replaced with Handlebars(package of expressjs).
 
 ![Homepage](https://user-images.githubusercontent.com/74069155/127822923-2a98dc93-86b5-4dcd-bee0-638865dd52aa.jpg)
 
+2. This is about page where you will Know about the creator of the app by directly clicking on "Go to Linkedin profile" and it will redirect you.
+
+
+3. Now coming to the main page where you can see the temperature details you want of your city.
+
+
+4. This is an error page if user type unmatching or irrevelent content that does not belongs to the website.
+
